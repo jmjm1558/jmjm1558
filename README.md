@@ -1,6 +1,6 @@
 ```
      ██╗███╗   ███╗   jmjm1558@github
-     ██║████╗ ████║   ────────────────────────────────────────────────────────
+     ██║████╗ ████║   🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
      ██║██╔████╔██║   role ............... AI trainer · independent contractor
 ██   ██║██║╚██╔╝██║   location ..................... Colombia · remote (UTC-5)
 ╚█████╔╝██║ ╚═╝ ██║   focus ................. LLM agents that reach production
@@ -12,9 +12,7 @@
                       editor .............. VS Code + Claude Code · zsh · tmux
                       studying ............ numerical methods · modern physics
                       site .................................... juanjimenez.ai
-
-                      ██ ██ ██ ██ ██ ██ ██ ██
-                      ██ ██ ██ ██ ██ ██ ██ ██
+                      🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
 ```
 
 I build systems where the model does the work, not the demo. Most of what I
